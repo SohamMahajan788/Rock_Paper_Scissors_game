@@ -33,6 +33,17 @@ Project Name - Rock, Paper, Scissors Game ✊📄✂️
 
 Enjoy the game and happy coding! 🚀
 ****************************************
+
+🔗 Follow My Coding Journey:
+
+LinkedIn: https://www.linkedin.com/in/sohammahajan788
+
+Twitter (X): https://x.com/SohamMahajan788
+
+GitHub: https://github.com/SohamMahajan788
+
+****************************************
+
 🔗 Contribution
 
 - Feel free to fork this project and improve upon it! 🚀
