@@ -1,0 +1,74 @@
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.
+1
+
+    _______
+---'   ____)____
+          ______)
+          _______)
+         _______)
+---.__________)
+
+Computer chooses:
+
+    _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___)
+
+YOU WIN!
+
+Process finished with exit code 0
+
+
+****************************************
+
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.
+1
+
+    _______
+---'   ____)____
+          ______)
+          _______)
+         _______)
+---.__________)
+
+Computer chooses:
+
+    _______
+---'   ____)____
+          ______)
+          _______)
+         _______)
+---.__________)
+
+It's a DRAW!
+
+Process finished with exit code 0
+
+
+****************************************
+
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.
+2
+
+    _______
+---'   ____)____
+          ______)
+       __________)
+      (____)
+---.__(___)
+
+Computer chooses:
+
+    _______
+---'   ____)____
+          ______)
+          _______)
+         _______)
+---.__________)
+
+YOU LOSE!
+
+Process finished with exit code 0
