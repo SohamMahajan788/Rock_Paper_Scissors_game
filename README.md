@@ -32,5 +32,11 @@ Project Name - Rock, Paper, Scissors Game ✊📄✂️
 ✔️ Python Lists 📜✔️ If-Elif-Else Statements 🤖✔️ Randomisation 🎲
 
 Enjoy the game and happy coding! 🚀
+****************************************
+🔗 Contribution
+
+- Feel free to fork this project and improve upon it! 🚀
+
+🌟 Star This Repo If you like this project, consider starring it on GitHub!
 
 📚 Created by Soham Mahajan
