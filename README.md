@@ -1,4 +1,4 @@
-Rock, Paper, Scissors Game ✊📄✂️
+Project Name - Rock, Paper, Scissors Game ✊📄✂️
 
 
 🎮 About the Game
@@ -33,3 +33,4 @@ Rock, Paper, Scissors Game ✊📄✂️
 
 Enjoy the game and happy coding! 🚀
 
+📚 Created by Soham Mahajan
